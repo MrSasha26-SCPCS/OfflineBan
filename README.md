@@ -1,0 +1,2 @@
+# OfflineBan
+SCP: CS plugin
